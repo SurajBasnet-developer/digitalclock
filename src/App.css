@@ -7,6 +7,30 @@
   pointer-events: none;
 }
 
+body{
+  background-color: #e3e6ec;
+}
+
+
+.digital-clock{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.clockdisplay{
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+  background-color: black;
+  padding: 1rem;
+  border-radius: 40%;
+  margin: 1rem;
+
+  display: flex;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
