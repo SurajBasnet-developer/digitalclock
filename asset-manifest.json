@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digitalclock/static/css/main.d12bd923.css",
+    "main.js": "/digitalclock/static/js/main.676c6d0b.js",
+    "index.html": "/digitalclock/index.html",
+    "main.d12bd923.css.map": "/digitalclock/static/css/main.d12bd923.css.map",
+    "main.676c6d0b.js.map": "/digitalclock/static/js/main.676c6d0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d12bd923.css",
+    "static/js/main.676c6d0b.js"
+  ]
+}
